@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  ul {
+    list-style-type: none;
+  }
+  #education_section {
+    margin-top: 50px;
+  }
+  .education_heading {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .education_item {
+    margin-bottom: 10px;
+  }
+  #experience_section {
+    margin-top: 50px;
+  }
+  #experience_heading {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  th {
+    text-align: center;
+  }
+  #projects_section {
+    margin-top: 50px;
+  }
+  #projects_heading {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  #projects_section {
+    margin-top: 50px;
+  }
+  #projects_heading {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  #projects_list {
+    list-style-type: none;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+    
